@@ -6,7 +6,7 @@ int main(){
     cout<< "ingrese numero1:"<<endl;
     cin>> numero_1;
 
-    promedio = (numero_1 + 5)/2;
+    promedio = (numero_1 + 7)/2;
     cout<< "promedio:";
     cout<< promedio<<endl;
 }
